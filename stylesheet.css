@@ -11,6 +11,11 @@
     background-image: url('images/black.jpg');
     color: #ffffff;
 }
+.react-video {
+    border: 1px solid #464646;
+    height: 300px;
+    width: 500px;
+}
 
 h3 {
     text-decoration: underline;
